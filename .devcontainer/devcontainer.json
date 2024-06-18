@@ -21,8 +21,6 @@
       "extensions": [
         "ms-python.python",
         "GitHub.copilot",
-        "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurestaticwebapps"
       ],
       "settings": {
         "emmet.includeLanguages": {
@@ -35,7 +33,6 @@
 
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {},
-    "ghcr.io/devcontainers/features/azure-cli:1": {}
   },
 
   "portsAttributes": {

@@ -9,9 +9,7 @@
   "waitFor": "onCreateCommand",
   "updateContentCommand": "",
   "postCreateCommand": "",
-  "postAttachCommand": {
-    "server": "python -m http.server"
-  },
+  "postAttachCommand": "",
 
   // Configure tool-specific properties.
   "customizations": {

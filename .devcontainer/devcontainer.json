@@ -34,13 +34,4 @@
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {},
   },
-
-  "portsAttributes": {
-    "1234": {
-      "label": "Application",
-      "onAutoForward": "openPreview"
-    }
-  },
-
-  "forwardPorts": [1234]
 }

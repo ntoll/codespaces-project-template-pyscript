@@ -1,16 +1,16 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/devcontainers/images/tree/main/src/javascript-node
 {
-  "name": "JavaScript Portfolio Site with GitHub Codespaces",
+  "name": "PyScript Site with GitHub Codespaces",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "npm install",
+  "updateContentCommand": "",
   "postCreateCommand": "",
   "postAttachCommand": {
-    "server": "npm start"
+    "server": "python -m http.server"
   },
 
   // Configure tool-specific properties.
@@ -19,15 +19,14 @@
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
+        "ms-python.python",
         "GitHub.copilot",
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurestaticwebapps"
       ],
       "settings": {
         "emmet.includeLanguages": {
-          "javascript": "javascriptreact"
+          "razor": "html"
         },
         "emmet.triggerExpansionOnTab": true
       }

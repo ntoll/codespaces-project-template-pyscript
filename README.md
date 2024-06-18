@@ -1,13 +1,13 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
-# 🐍📜 PyScript Portfolio Site with GitHub Codespaces and Copilot
+# 🐍📜 PyScript with GitHub Codespaces and Copilot
 
 _Create, customize and deploy your own [PyScript](https://pyscript.net)
 website in minutes._ ✨
 
 In this template repository we have the development environment and base set
-and ready to go. So that you can immediately launch you
-r [Codespace](https://github.com/features/codespaces/) environment and start
+and ready to go. So that you can immediately launch your
+[Codespace](https://github.com/features/codespaces/) environment and start
 customizing your site using [Copilot](https://copilot.github.com) to help you
 write code faster.
 
@@ -21,7 +21,7 @@ write code faster.
 * **Prerequisites:** _None_. This template includes your development
   environment and deployable web app for you to create your own site.
 
-## About this portfolio template
+## About this PyScript template
 
 This template includes the minimal viable PyScript application, from which you
 can build.
@@ -44,9 +44,7 @@ can build.
    [![Codespaces Tutorial](https://img.youtube.com/vi/ozuDPmcC1io/0.jpg)](https://aka.ms/CodespacesVideoTutorial "Codespaces Tutorial")
 </details>
 
-<br />
-
-## 🗃️ PyScript Portfolio template
+## 🗃️ PyScript template
 
 This repo is a GitHub template to build a PyScript web application. The goal is
 to give you a template that you can immediately utilize to create your own

@@ -99,7 +99,11 @@ Your development environment is all set for you to start.
 Project includes the setup needed for you to deploy **FREE** to either
 [Azure Static Web Apps](https://azure.microsoft.com/products/app-service/static/?WT.mc_id=academic-79839-sagibbon)
 _**or**_ [GitHub Pages](https://pages.github.com/)</a>. Instructions are
-included below for Azure:
+included below for Azure. The following YouTube video demonstrates how to get
+your Codespace up and running, then deployed to GitHub Pages in under two 
+minutes:
+
+[![PyScript to Github pages in 2 minutes.](https://img.youtube.com/vi/dmIWFcJ2UTI/0.jpg)](https://www.youtube.com/watch?v=dmIWFcJ2UTI)
 
 ### Azure Static Web Apps
 
